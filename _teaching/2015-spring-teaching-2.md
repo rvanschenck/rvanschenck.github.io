@@ -1,20 +1,11 @@
 ---
-title: "Teaching experience 2"
+title: "Argumentation"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "High school and undergraduate course"
+permalink: /teaching/argumentation
+venue: "University of Pittsburgh, Department of Communication, College in High School"
+date: 2020-present
+location: "Pittsburgh, PA"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+My argumentation class is a theoretical and practical course that builds upon rhetorical models of the public sphere to build advocacy skills and a deeper appreciation of democratic life.
