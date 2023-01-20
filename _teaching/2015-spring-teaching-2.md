@@ -4,7 +4,7 @@ collection: teaching
 type: "High school and undergraduate course"
 permalink: /teaching/argumentation
 venue: "University of Pittsburgh, Department of Communication, College in High School"
-date: 2020-present
+date: "2020-present"
 location: "Pittsburgh, PA"
 ---
 
