@@ -1,20 +1,11 @@
 ---
-title: "Teaching experience 1"
+title: "Public Speaking"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+permalink: /teaching/public-speaking
+venue: "University of Pittsburgh, Department of Communication and Rhetoric"
+date: "2020-present"
+location: "Pittsburgh, PA"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+My public speaking class is a dynamic, sklls-based course that prepares students to give excellent speeches for any occasion by honing their own voice and training the abilities that they already have.
