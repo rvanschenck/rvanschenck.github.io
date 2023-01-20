@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Reed Van Schenck"
   avatar           : "profile smaller.png"
-  bio              : "I am a Ph.D student studying digital culture and reactionary rhetoric at the University of Pittsburgh."
+  bio              : "I am a Ph.D student in Communication, an intercollegiate debate coach, and a teacher in rhetoric, communication, and media studies."
   location         : "Pittsburgh, PA"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=NbmGK9EAAAAJ"
-  email            :
+  email            : "crv18@pitt.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -99,7 +99,7 @@ author:
   github           : "rvanschenck"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        :  "instagram.com/voidwhereinhibited"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
