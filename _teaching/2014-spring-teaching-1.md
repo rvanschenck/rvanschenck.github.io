@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/public-speaking
 venue: "University of Pittsburgh, Department of Communication and Rhetoric"
-date: "2020-present"
+date: 
 location: "Pittsburgh, PA"
 ---
 
