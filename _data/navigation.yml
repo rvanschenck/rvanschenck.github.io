@@ -2,3 +2,12 @@
 main:
   - title: "CV"
     url: /files/CV%20Van%20Schenck%20Nov%202022.pdf
+    
+  - title: "Teaching"
+    url: /teaching
+
+  - title: "Talks"
+    url: /talks
+    
+  - title: "Publications"
+    url: /publications
