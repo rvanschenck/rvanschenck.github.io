@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Reed Van Schenck, M.A."
 title_separator          : "-"
 name                     : &name "Reed Van Schenck"
-description              : &description "Ph.D student in Communication and Rhetoric at the University of Pittsburgh."
+description              : &description "Ph.D candidate in Communication and Rhetoric at the University of Pittsburgh."
 url                      : https://rvanschenck.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "rvanschenck.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Reed Van Schenck"
   avatar           : "profile smaller.png"
-  bio              : "I am a Ph.D student in Communication, an intercollegiate debate coach, and a teacher in rhetoric, communication, and media studies."
+  bio              : "I am a Ph.D candidate in Communication, an intercollegiate debate coach, and a teacher in rhetoric, communication, and media studies."
   location         : "Pittsburgh, PA"
   employer         :
   pubmed           : 
