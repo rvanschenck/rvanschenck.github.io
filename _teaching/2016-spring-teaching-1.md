@@ -1,11 +1,11 @@
 ---
-title: "Public Speaking"
+title: "Mass Communication and Society"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/public-speaking
+permalink: /teaching/mass-comm
 venue: "University of Pittsburgh, Department of Communication and Rhetoric"
-date: 2023-01-09
+date: 2023-08-28
 location: "Pittsburgh, PA"
 ---
 
-My public speaking class is a dynamic, sklls-based course that prepares students to give excellent speeches for any occasion by honing their own voice and training the abilities that they already have.
+My Mass Communication and Society is a rigorous discussion and criticism-based course that equips students with a toolkit of media and cultural studies that they apply to interact with, respond to, and create media in subversive ways.
