@@ -8,4 +8,4 @@ date: 2023-08-28
 location: "Pittsburgh, PA"
 ---
 
-My Mass Communication and Society is a rigorous discussion and criticism-based course that equips students with a toolkit of media and cultural studies that they apply to interact with, respond to, and create media in subversive ways.
+My Mass Comm class is a rigorous discussion and criticism-based course that equips students with a toolkit of media and cultural studies that they apply to interact with, respond to, and create media in subversive ways.
