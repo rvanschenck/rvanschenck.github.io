@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Reed Van Schenck, M.A."
+title                    : "Dr. Reed Van Schenck"
 title_separator          : "-"
 name                     : &name "Reed Van Schenck"
-description              : &description "Ph.D candidate in Communication and Rhetoric at the University of Pittsburgh."
+description              : &description "Assistant Professor of Communication at IE University"
 url                      : https://rvanschenck.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "rvanschenck.github.io"
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Reed Van Schenck"
+  name             : "Dr. Reed Van Schenck"
   avatar           : "profile smaller.png"
-  bio              : "I am a Ph.D candidate in Communication, an intercollegiate debate coach, and a teacher in rhetoric, communication, and media studies."
-  location         : "Pittsburgh, PA"
+  bio              : "I am an Assistant Professor in Communication and a scholar-activist at the intersection of media studies, rhetoric, and cultural studies."
+  location         : "Madrid, Spain & Pittsburgh, PA"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=NbmGK9EAAAAJ"
-  email            : "crv18@pitt.edu"
+  email            : "rvanschenck@faculty.ie.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
