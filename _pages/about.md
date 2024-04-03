@@ -8,19 +8,19 @@ redirect_from:
   - /about.html
 ---
 
-Reed Van Schenck is a Ph.D candidate in Communication and Rhetoric at the University of Pittsburgh and an assistant debate coach at the William Pitt Debating Union.
+Dr. Reed Van Schenck is Assistant Professor in the Department of Marketing and Communication at IE University in Madrid. 
 
 ### About My Research ###
 
 My research examines **reactionary rhetoric**, **digital media**, and **cultural studies**. I am fascinated by how ultra-conservative, fascist, and ethno-nationalist ideas foment through Internet subcultures and the platforms that host them. Using **humanistic methods** like discourse analysis, online ethnography, and rhetorical criticism, I investigate the media practices that beget and encourage white supremacist, misogynistic, and antisemitic networks.
 
-I am currently working on my dissertation:  _The Reactionary Web: Digital Media and the Reconstitution of White Supremacist Networks after the 'Alt-Right.'_ I explain how the Alt-Right, a reactionary digital network most active from 2014-2017, emerged as a result of the exploitative infrastructure of the Internet. By treating its websites, apps, and communities as artifacts for criticism, I explicate their demise after the "Unite the Right" rally and illustrate how some of its constituent factions have persisted and evolved during a shift toward regulating digital platforms.
+I recently completed my dissertation:  _The Reactionary Web: Digital Media and the Reconstitution of White Supremacist Networks after the 'Alt-Right.'_ I explain how the Alt-Right, a reactionary digital network most active from 2014-2017, emerged as a result of the exploitative infrastructure of the Internet. By treating its websites, apps, and communities as artifacts for criticism, I explicate their demise after the "Unite the Right" rally and illustrate how some of its constituent factions have persisted and evolved during a shift toward regulating digital platforms.
 
 ### About My Pedagogy ###
 
-I was born and raised in Virginia Beach by two public middle school teachers. Nobody else is more qualified to pass down the most important quality for effective teaching: listening to your students. My students have praised my **critical approach to pedagogy** which prioritizes cultivating confidence for creative knowledge production. I believe in **process-over-product** which I practice through dialogic communication of course objecties and balance between activities, lecture, and discussion.
+I was born and raised in Virginia Beach, in the United States, by two public middle school teachers. Nobody else is more qualified to pass down the most important quality for effective teaching: listening to your students. My students have praised my **critical approach to pedagogy** which prioritizes cultivating confidence for creative knowledge production. I believe in **process-over-product** which I practice through dialogic communication of course objecties and balance between activities, lecture, and discussion.
 
-Besides classroom teaching, I possess years of pedagogical experience as a debate coach at the middle school, high school, and college levels. I was recognized as an excellent instructor in Applied Persuasion with the Teddy Albiniak Award at the University of Texas at Austin in 2022. Whether we meet in the classroom or the squad room, my students have gone on to speak at the National Eating Disorder Awareness walk and to compete at the highest levels of intercollegiate debate. 
+Besides classroom teaching, I possess years of pedagogical experience as a debate coach at the middle school, high school, and college levels in the United States. I was recognized as an excellent instructor in Applied Persuasion with the Teddy Albiniak Award at the University of Texas at Austin in 2022. Whether we meet in the classroom or the squad room, my students have gone on to speak at the National Eating Disorder Awareness walk and to compete at the highest levels of intercollegiate debate. 
 
 ### About My Advocacy ###
 
