@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Dr. Reed Van Schenck is Assistant Professor in the Department of Marketing and Communication at IE University in Madrid. 
+Dr. Reed Van Schenck is Assistant Professor in the Department of Marketing and Communication at IE University in Madrid. They received their PhD in Communication from the University of Pittsburgh.
 
 ### About My Research ###
 
