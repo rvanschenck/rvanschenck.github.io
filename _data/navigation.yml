@@ -2,9 +2,4 @@
 main:
   - title: "CV"
     url: /files/CV%20Van%20Schenck%20November%202024.pdf
-    
-  - title: "Teaching"
-    url: /teaching
-
-  - title: "Media"
-    url: /talks
+  
