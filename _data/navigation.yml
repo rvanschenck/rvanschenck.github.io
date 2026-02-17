@@ -2,4 +2,5 @@
 main:
   - title: "CV"
     url: /files/CV%20Van%20Schenck%20Nov%202025.pdf
-  
+  - title: "Media"
+    url: /talks/
