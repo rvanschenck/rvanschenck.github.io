@@ -81,14 +81,14 @@ analytics:
 # Site Author
 author:
   name             : "Dr. Reed Van Schenck"
-  avatar           : "profile smaller.png"
+  avatar           : "reed-van-schenck-efc4736d-1a2b-481a-8c09-ae5f387ea270.png"
   bio              : "I am an Assistant Professor in Communication and a scholar-activist working the intersection of digital media studies, rhetoric, and cultural studies."
   location         : "Madrid, Spain"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=NbmGK9EAAAAJ"
   email            : "rvanschenck@faculty.ie.edu"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Reed-Van-Schenck"
   uri              :
   bitbucket        :
   codepen          :
