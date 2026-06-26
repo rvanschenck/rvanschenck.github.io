@@ -5,14 +5,13 @@ permalink: /book/
 author_profile: true
 ---
 
-<div style="float: right; margin: 0 0 1rem 1.5rem; max-width: 400px;">
+<div style="float: right; margin: 0 0 1rem 1.5rem; max-width: 300px;">
   <img
   src="/images/VAN%20SCHENCK_THE%20REACTIONARY%20WEB%20%5BFC%5D.jpg"
   alt="Book cover"
   style="width:100%; height:auto; border:1px solid #ddd; box-shadow:0 2px 8px rgba(0,0,0,0.15);"
 />
 </div>
-
 
 ## Preorder! Ships December 2026
 
