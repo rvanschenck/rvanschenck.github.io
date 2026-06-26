@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Book"
+title: "The Reactionary Web"
 permalink: /book/
 author_profile: true
 ---
