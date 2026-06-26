@@ -5,7 +5,7 @@ permalink: /book/
 author_profile: true
 ---
 
-<div style="float: right; margin: 0 0 1rem 1.5rem; max-width: 300px;">
+<div style="float: right; margin: 0 0 1rem 1.5rem; max-width: 325px;">
   <img
   src="/images/VAN%20SCHENCK_THE%20REACTIONARY%20WEB%20%5BFC%5D.jpg"
   alt="Book cover"
