@@ -5,6 +5,15 @@ permalink: /book/
 author_profile: true
 ---
 
+<div style="float: right; margin: 0 0 1rem 1.5rem; max-width: 260px;">
+  <img
+  src="/images/VAN%20SCHENCK_THE%20REACTIONARY%20WEB%20%5BFC%5D.jpg"
+  alt="Book cover"
+  style="width:100%; height:auto; border:1px solid #ddd; box-shadow:0 2px 8px rgba(0,0,0,0.15);"
+/>
+</div>
+
+
 ## The Reactionary Web: White Supremacist Digital Media After the Alt-Right
 
 Digital platforms have become a critical stage for far-right movements in the US. 
@@ -22,6 +31,7 @@ Inside the book:
 •	Abolitionism and internet politics
 
 •	What the right talks about online when they think no one’s watching
+
 
 ---
 
