@@ -37,4 +37,4 @@ To purchase the book or view additional information, including the table of cont
 
 ## Recommended Citation
 
-Van Schenck, Reed. 2026. *The Reactionary Web: White Supremacist Digital Media After the Alt-Right*. Bristol, UK: Bristol University Press.
+Van Schenck, Reed. 2027. *The Reactionary Web: White Supremacist Digital Media After the Alt-Right*. Bristol, UK: Bristol University Press.
