@@ -14,9 +14,10 @@ Dr. Reed Van Schenck is Assistant Professor of Communication and Media in the Sc
 
 My research examines reactionary digital publics, cultures, and infrastructures. I am trained in the fields of **rhetoric**, **media studies**, and **cultural studies**. I am fascinated by how ultra-conservative, fascist, and ethno-nationalist ideas foment through Internet subcultures and the platforms that host them. Using **humanistic methods** like discourse analysis, online ethnography, and rhetorical criticism, I investigate the media practices that beget and encourage white supremacist, misogynistic, and antisemitic networks.
 
+My first book,  _The Reactionary Web: White Supremacist Digital Media after the Alt-Right_ (Bristol University Press), investigates how white supremacist networks persist on the Internet despite facing deplatforming, debanking, and deletion. I study user-generated content, platform policy, interfaces, and infrastructure to explain how the platform economy structurally favors reactionary media. It provides a solid overview of how white supremacist networks in the United States evolved through the decline of the alt-right, the rise of alt-tech platforms, the transformation of mainstream social media, and the rise of the tech right.
+
 For a good sample of my research, check out ["Remaking the World Memetically"](https://www.tandfonline.com/doi/full/10.1080/14791420.2023.2228867) in _Communication and Critical/Cultural Studies._ This paper was awarded the Stephen E. Lucas Debut Publication Award by the National Communication Association in 2024.
 
-I'm currently working on a book:  _The Reactionary Web: White Supremacist Digital Media after the Alt-Right_ (forthcoming December 2026, Bristol Unviersity Press). The book investigates how white supremacist networks persist on the Internet despite facing deplatforming, debanking, and deletion. I study user-generated content, platform policy, interfaces, and infrastructure to explain how the platform economy structurally favors reactionary media.
 
 ### About My Pedagogy ###
 
@@ -28,4 +29,4 @@ Besides classroom teaching, I possess years of pedagogical experience as a debat
 
 The best way to do so is via my work email: rvanschenck at faculty dot ie dot edu.
 
-Another good way to do so is via my social media accounts, listed here in order of how frequently I check them: [Bluesky](https://bsky.app/profile/reedvanschenck.bsky.social) -[X](https://x.com/reedvanschenck) - [LinkedIn](https://www.linkedin.com/in/reed-van-schenck-55ab46162/)
+Another good way to do so is via my social media accounts, listed here in order of how frequently I check them: [Bluesky](https://bsky.app/profile/reedvanschenck.bsky.social) - [LinkedIn](https://www.linkedin.com/in/reed-van-schenck-55ab46162/)
